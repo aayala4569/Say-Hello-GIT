@@ -28,3 +28,18 @@
 /Users/Angelica/Documents/Night Class Lectures/Assignments/SayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT.pdb
 /Users/Angelica/Documents/Night Class Lectures/Assignments/SayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.genruntimeconfig.cache
 /Users/Angelica/Documents/Night Class Lectures/Assignments/SayHello/Say-Hello-GIT/obj/Debug/net6.0/ref/Say-Hello-GIT.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/bin/Debug/net6.0/Say-Hello-GIT.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/refint/Say-Hello-GIT.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/Say-Hello-GIT.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AngelicaSayHello/Say-Hello-GIT/obj/Debug/net6.0/ref/Say-Hello-GIT.dll
